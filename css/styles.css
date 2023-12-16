@@ -19,6 +19,7 @@
     text-decoration: none;
     padding-left: 156px;
     align-items: center;
+    margin-right: 76px;
 }
 
 h1,
@@ -167,9 +168,23 @@ max-width: 496px;
     background-color: #404bbf;
 }
 
+.title-footer {
+    font-family: "Raleway", sans-serif;
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 1.17;
+        letter-spacing: 0.03em;
+        color: #4d5ae5;
+        text-transform: uppercase;
+        text-decoration: none;
+        display: inline-block;
+        margin-bottom: 16px;
+}
+
 .team {
     background: #FFF;
     display: flex;
+    padding: 120px 0;
 }
 
 .item-second {
@@ -315,7 +330,7 @@ margin-bottom: 8px;
         letter-spacing: 0.02em;
 }
 .container {
-    max-width: 1440px;
+    max-width: 1158px;
     margin: 0 auto;
         padding: 0 15px;
 }
